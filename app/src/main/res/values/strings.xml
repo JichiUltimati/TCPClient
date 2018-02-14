@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TCPClient</string>
+    <string name="default_ip">192.168.43.18</string>
+</resources>
